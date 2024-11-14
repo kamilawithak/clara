@@ -1,0 +1,59 @@
+body {
+    justify-content: center;
+    font-family: "Optima";
+    background-color: #fa7815ff;
+    text-align: center;
+  }
+
+header {
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 50pt;
+    font-family: "Optima";
+}
+
+h2 {
+    color: #ffffff;
+    font-family: "Optima";
+    text-align: center;
+}
+
+p {
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    background-color: white;
+    overflow: hidden;
+    padding: 1em;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: #fa7815ff;
+    font-size: 30pt;
+    padding: 1em;
+    justify-content: center;
+}
+
+li a:hover{
+    color: orange;
+}
+
+img {
+    height: 300pt;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
