@@ -10,6 +10,11 @@ header {
     text-align: center;
 }
 
+main{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
 h1 {
     color: #ffffff;
     text-align: center;
@@ -26,7 +31,6 @@ h2 {
 p {
     color: white;
     font-size: 20pt;
-    padding: 1em;
 }
 
 ul {
@@ -63,6 +67,7 @@ iframe {
     width: 40em;
     height: 80em;
 }
+
 
 
 
